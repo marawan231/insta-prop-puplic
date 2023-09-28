@@ -52,8 +52,16 @@
 ## Screenshots
 <p float="left">
 <img src="https://github.com/Ibrahim12699/insta_prop_admin/blob/ibrahim/screenshots/1.jpg?raw=true" width="170" />
+
+
+     
 <img src="https://github.com/Ibrahim12699/insta_prop_admin/blob/ibrahim/screenshots/2.jpg?raw=true" width="170" />
+
+
+
+
 <img src="https://github.com/Ibrahim12699/insta_prop_admin/blob/ibrahim/screenshots/3.jpg?raw=true" width="170" />
+
 <img src="https://github.com/Ibrahim12699/insta_prop_admin/blob/ibrahim/screenshots/4.jpg?raw=true" width="170" />
 <img src="https://github.com/Ibrahim12699/insta_prop_admin/blob/ibrahim/screenshots/5.jpg?raw=true" width="170" />
 <img src="https://github.com/Ibrahim12699/insta_prop_admin/blob/ibrahim/screenshots/6.jpg?raw=true" width="170" />
